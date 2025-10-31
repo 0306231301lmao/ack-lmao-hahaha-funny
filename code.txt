@@ -1,4 +1,6 @@
 hello world
+<<<<<<< HEAD
 xin chao ack
 xin chao lmao
+xin chao hahaha
 
